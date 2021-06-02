@@ -1,55 +1,55 @@
 {
-  "_from": "kubas",
-  "_id": "kubas@0.4.0",
-  "_inBundle": false,
-  "_integrity": "sha512-+4IHJamXGzupUrDJG6tnk7PwQxrm8eF8ikPLQ60/mNDevmcNBPym3HMUxiKd8MQEkzJEi/ja+kKr0sysVcBz5Q==",
-  "_location": "/kubas",
-  "_phantomChildren": {},
-  "_requested": {
-    "type": "tag",
-    "registry": true,
-    "raw": "kubas",
+    "_from": "kubas",
+    "_id": "kubas@0.4.0",
+    "_inBundle": false,
+    "_integrity": "sha512-+4IHJamXGzupUrDJG6tnk7PwQxrm8eF8ikPLQ60/mNDevmcNBPym3HMUxiKd8MQEkzJEi/ja+kKr0sysVcBz5Q==",
+    "_location": "/kubas",
+    "_phantomChildren": {},
+    "_requested": {
+        "type": "tag",
+        "registry": true,
+        "raw": "kubas",
+        "name": "kubas",
+        "escapedName": "kubas",
+        "rawSpec": "",
+        "saveSpec": null,
+        "fetchSpec": "latest"
+    },
+    "_requiredBy": [
+        "#USER",
+        "/"
+    ],
+    "_resolved": "https://registry.npmjs.org/kubas/-/kubas-0.2.0.tgz",
+    "_shasum": "f19dc8851e2ccda23252bb46d8efbad4e2ffde46",
+    "_spec": "kubas",
+    "_where": "/Users/chrisgalbraith/www/projects/kubas",
+    "author": {
+        "name": "Chris Galbraith"
+    },
+    "bin": {
+        "kubas": "kubas.js"
+    },
+    "bugs": {
+        "url": "https://github.com/chrismademe/kubas/issues"
+    },
+    "bundleDependencies": false,
+    "dependencies": {
+        "cosmiconfig": "^6.0.0",
+        "lodash": "^4.17.15",
+        "prettier": "^2.0.5"
+    },
+    "deprecated": false,
+    "description": "A design token and utility class generator",
+    "homepage": "https://github.com/chrismademe/kubas#readme",
+    "license": "MIT",
+    "main": "./kubas.js",
     "name": "kubas",
-    "escapedName": "kubas",
-    "rawSpec": "",
-    "saveSpec": null,
-    "fetchSpec": "latest"
-  },
-  "_requiredBy": [
-    "#USER",
-    "/"
-  ],
-  "_resolved": "https://registry.npmjs.org/kubas/-/kubas-0.2.0.tgz",
-  "_shasum": "f19dc8851e2ccda23252bb46d8efbad4e2ffde46",
-  "_spec": "kubas",
-  "_where": "/Users/chrisgalbraith/www/projects/kubas",
-  "author": {
-    "name": "Chris Galbraith"
-  },
-  "bin": {
-    "kubas": "kubas.js"
-  },
-  "bugs": {
-    "url": "https://github.com/chrismademe/kubas/issues"
-  },
-  "bundleDependencies": false,
-  "dependencies": {
-    "cosmiconfig": "^6.0.0",
-    "lodash": "^4.17.15",
-    "prettier": "^2.0.5"
-  },
-  "deprecated": false,
-  "description": "A design token and utility class generator",
-  "homepage": "https://github.com/chrismademe/kubas#readme",
-  "license": "MIT",
-  "main": "./kubas.js",
-  "name": "kubas",
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/chrismademe/kubas.git"
-  },
-  "scripts": {
-    "test": "echo \"No test specified\""
-  },
-  "version": "0.4.0"
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/chrismademe/kubas.git"
+    },
+    "scripts": {
+        "test": "echo \"No test specified\""
+    },
+    "version": "0.6.0"
 }
