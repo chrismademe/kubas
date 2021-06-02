@@ -1,6 +1,6 @@
 {
   "_from": "kubas",
-  "_id": "kubas@0.3.0",
+  "_id": "kubas@0.4.0",
   "_inBundle": false,
   "_integrity": "sha512-+4IHJamXGzupUrDJG6tnk7PwQxrm8eF8ikPLQ60/mNDevmcNBPym3HMUxiKd8MQEkzJEi/ja+kKr0sysVcBz5Q==",
   "_location": "/kubas",
@@ -51,5 +51,5 @@
   "scripts": {
     "test": "echo \"No test specified\""
   },
-  "version": "0.3.0"
+  "version": "0.4.0"
 }
